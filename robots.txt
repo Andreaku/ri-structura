@@ -1,0 +1,8 @@
+# robots.txt per https://ri-structura.it/
+# Indica ai crawler dove trovare la sitemap
+Sitemap: https://ri-structura.it/sitemap.xml
+
+# Regole generali per tutti i bot
+User-agent: *
+# Consenti la scansione di tutte le pagine (nessuna directory riservata)
+Disallow:
